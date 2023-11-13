@@ -18,4 +18,4 @@ A simple analog clock with dark mode and light mode
 
 ## Contributing
 - If you want to contribute to this project, please feel free to fork the repository and make a pull request.
-- You can also contact me at mailto:omarmosharawi@gmail.com for any suggestions or feedback.
+- You can also contact me at omarmosharawi@gmail.com for any suggestions or feedback.
